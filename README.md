@@ -26,4 +26,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/najasherintv/LeetCode/tree/master/0344-reverse-string) |
+| [1205-defanging-an-ip-address](https://github.com/najasherintv/LeetCode/tree/master/1205-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
