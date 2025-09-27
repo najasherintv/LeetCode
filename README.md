@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/najasherintv/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/najasherintv/LeetCode/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/najasherintv/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/najasherintv/LeetCode/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/najasherintv/LeetCode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/najasherintv/LeetCode/tree/master/0344-reverse-string) |
 | [1205-defanging-an-ip-address](https://github.com/najasherintv/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/najasherintv/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
