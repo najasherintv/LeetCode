@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/najasherintv/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/najasherintv/LeetCode/tree/master/0013-roman-to-integer) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/najasherintv/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/najasherintv/LeetCode/tree/master/0344-reverse-string) |
 | [1205-defanging-an-ip-address](https://github.com/najasherintv/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/najasherintv/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/najasherintv/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Greedy
 |  |
 | ------- |
