@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/najasherintv/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/najasherintv/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/najasherintv/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1603-running-sum-of-1d-array](https://github.com/najasherintv/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/najasherintv/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/najasherintv/LeetCode/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/najasherintv/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
