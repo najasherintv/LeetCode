@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/najasherintv/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/najasherintv/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/najasherintv/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0217-contains-duplicate](https://github.com/najasherintv/LeetCode/tree/master/0217-contains-duplicate) |
 | [1603-running-sum-of-1d-array](https://github.com/najasherintv/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/najasherintv/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/najasherintv/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/najasherintv/LeetCode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/najasherintv/LeetCode/tree/master/0217-contains-duplicate) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/najasherintv/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/najasherintv/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/najasherintv/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
