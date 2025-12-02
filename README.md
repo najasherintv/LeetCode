@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/najasherintv/LeetCode/tree/master/0283-move-zeroes) |
 | [1603-running-sum-of-1d-array](https://github.com/najasherintv/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/najasherintv/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2974-minimum-number-game](https://github.com/najasherintv/LeetCode/tree/master/2974-minimum-number-game) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/najasherintv/LeetCode/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/najasherintv/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2974-minimum-number-game](https://github.com/najasherintv/LeetCode/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,8 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/najasherintv/LeetCode/tree/master/0217-contains-duplicate) |
+| [2974-minimum-number-game](https://github.com/najasherintv/LeetCode/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/najasherintv/LeetCode/tree/master/0258-add-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/najasherintv/LeetCode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
