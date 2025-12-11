@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/najasherintv/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/najasherintv/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/najasherintv/LeetCode/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/najasherintv/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/najasherintv/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/najasherintv/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/najasherintv/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/najasherintv/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/najasherintv/LeetCode/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/najasherintv/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/najasherintv/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/najasherintv/LeetCode/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/najasherintv/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/najasherintv/LeetCode/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
